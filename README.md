@@ -1,7 +1,7 @@
 # SHERLOC Spectral processing
 
-*** These scripts are currently only for portfolio purposes during my job search ***
-*** Relevant data has not been released yet and as such is not uploaded here ***
+*** These scripts are currently only for portfolio purposes during my job search ***\
+*** Relevant data has not been released yet and as such is not uploaded here ***\
 *** You can only use this directory to assess the code in question ***
 
 Here you will find two scripts that I have build to process and visualize the Raman spectral grid retrieved from the SHERLOC instrument on the Perseverance rover. 
@@ -48,8 +48,8 @@ All credit for these baseline removal models goes to Donald Erb (github user der
 
 For SHERLOCGrid_DashBoard, you need to install: 
 
-pandas
-plotly dash - best installed with conda-forge
+pandas\
+plotly dash - best installed with conda-forge\
 Pillow - best installed with conda
 
 
